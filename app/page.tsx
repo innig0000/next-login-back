@@ -4,10 +4,8 @@ import SentenceSnow from "@/app/components/sentenceSnow";
 
 export default function Home() {
   return (
-        <div>
-            <Top/>
-            <SentenceSnow/>
-            <EventModal1/>
-        </div>
+        <>
+            NEXT-LOGIN-BACK
+        </>
   )
 }
